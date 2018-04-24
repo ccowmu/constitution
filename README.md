@@ -10,8 +10,8 @@ The official name of this organization is "The Computer Club at Western Michigan
 
 
 ##### ARTICLE II.     PURPOSE AND GOAL
-    Section 1.     Purpose
-    The purpose of the Club is to promote a better understanding of computers, the development and sharing of ideas among the members and the development of hardware and software for the Club and affiliated institutions.
+       Section 1.     Purpose
+The purpose of the Club is to promote a better understanding of computers, the development and sharing of ideas among the members and the development of hardware and software for the Club and affiliated institutions.
 
 Section 2.     Goal
 To improve the state of the art of computing and provide a friendly, helpful, and social atmosphere for those interested in computer hardware, software and other technology.
