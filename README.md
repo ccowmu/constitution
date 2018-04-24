@@ -1,6 +1,7 @@
 **The Constitution of The Computer Club at Western Michigan University**
 
 _PREAMBLE_
+
 This Computer Club was formed in the year nineteen hundred and seventy-six by James Sleep and Jay Martin on the campus of Western Michigan University. It has no bounds on computer competency for membership therein. The club is formed solely for the betterment of all persons interested in computers and technology.
 
 ARTICLE I.     NAME
