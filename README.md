@@ -100,11 +100,13 @@ The responsibilities of the Treasurer include:
 
 ##### Vice-Treasurer
 
+The responsibilities of the Vice-Treasurer include:
 * Assist the Treasurer in completing their duties.
 * Assume those duties of the Treasurer that the Treasurer delegates to the Vice-Treasurer.
 
 ##### Secretary
 
+The responsibilities of the Secretary include:
 * Keep minutes of all regular meetings.
 * Prepare Club correspondences.
 * Maintain a file of Club correspondences.
@@ -120,6 +122,7 @@ The following positions are not part of the Executive Board and do not have Elec
 
 ##### Systems Manager
 
+The responsibilities of the Systems Manager include:
 * Assist the Vice-President in day-to-day computer operations.
 * Maintain software and hardware owned by Club.
 * Monitor system security of Club systems.
@@ -127,6 +130,7 @@ The following positions are not part of the Executive Board and do not have Elec
 
 ##### Relations Manager
 
+The responsibilities of the Relations Manager include:
 * Advise the Executive Board regarding Club's relationship with third parties.
 * Maintain and build relationships with third parties, especially other WMU organizations.
 
@@ -285,4 +289,4 @@ Club shall have an Advisor selected from among faculty or staff who wish to advi
 * Third Edition Constitution rewrite 8/??/94
 * Constitutional amendment proposal 1/30/97
 * Updated Funding Section per University Requirements 10/26/10
-* Fourth Edition Constitution rewrite 1/26/22
+* Fourth Edition Constitution rewrite 1/26/23
